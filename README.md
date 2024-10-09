@@ -12,7 +12,7 @@ The experimental data comes from the **CodeWorkout Dataset**. It is a publicly a
 
 The dataset is organized into 5 task sets (A1~A5), each containing a specific set of programming challenges designed to assess various programming concepts and difficulty levels. We have annotated each task set with knowledge concepts, allowing the model to trace students' mastery across various programming concepts. The distribution of knowledge concepts within each task set is detailed in the paper.  You can also access these annotations and additional data files at the following paths within the repository:
 - Task set annotations: `data/$ass_id$/$ass_id$.xlsx`
-- List of programming knowledge concepts: `data/all_concept.xlsx`
+- List of programming knowledge concepts: `data/all_concepts.xlsx`
 - Preprocessed dataset: `data/data_ast.csv`
   
 
